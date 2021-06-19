@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Choubey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 Interested in collaborating on **React** Projects
 
